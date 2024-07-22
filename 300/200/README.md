@@ -1,5 +1,7 @@
 # 200 - SAM Studio
 
+## 100 - SAM Blockly
+
 > SAM Blockly (previously Google Workbench) uses block-based coding, a drag-and-drop coding language represented by blocks.
 > This platform is used in the Learn to Code and the Creators Coding Kit lesson plans and can be found inside SAM Studio.
 
