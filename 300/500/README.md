@@ -6,4 +6,4 @@ See https://microbit.org/get-started/user-guide/transfer-code-to-the-microbit/
 
 Visit https://microbit.org/buy/
 
-Dutch Reseller "Open Circuit" at https://opencircuit.shop/product/bbc-micro-bit-v2
+Dutch Reseller "Open Circuit" at https://opencircuit.shop/product/bbc-micro-bit-go-bundel-v2
