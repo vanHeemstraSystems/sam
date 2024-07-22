@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+sam
+# SAM
 
-Based on "ABC" at https://www.abc.com/
+Based on "SAM Labs" at https://samlabs.com
 
 ## 100 - Introduction
 
