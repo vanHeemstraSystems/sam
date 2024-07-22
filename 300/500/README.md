@@ -5,3 +5,5 @@ See https://microbit.org/get-started/user-guide/transfer-code-to-the-microbit/
 ## 100 - Buy Micro:Bits
 
 Visit https://microbit.org/buy/
+
+Dutch Reseller "Open Circuit" at https://opencircuit.shop/product/bbc-micro-bit-v2
