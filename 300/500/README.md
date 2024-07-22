@@ -13,3 +13,5 @@ Dutch Reseller "Open Circuit" at https://opencircuit.shop/product/bbc-micro-bit-
 See https://microbit.org/get-started/getting-started/get-coding/?device=iOS
 
 iOS App at https://apps.apple.com/gb/app/micro-bit/id1092687276
+
+See also "BBC Micro:bit + WiFi + Phone Notifications" at https://www.instructables.com/BBC-Microbit-WiFi-Phone-Notifications/
