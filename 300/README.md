@@ -15,3 +15,7 @@ See [README.md](./300/README.md)
 ## 400 - SAM Blocks
 
 See [README.md](./400/README.md)
+
+## 500 - Micro:Bits
+
+See [README.md](./500/README.md)
