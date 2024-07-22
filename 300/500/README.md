@@ -11,3 +11,5 @@ Dutch Reseller "Open Circuit" at https://opencircuit.shop/product/bbc-micro-bit-
 ## 200 - Getting Started with Micro:Bits
 
 See https://microbit.org/get-started/getting-started/get-coding/?device=iOS
+
+iOS App at https://apps.apple.com/gb/app/micro-bit/id1092687276
